@@ -1,4 +1,4 @@
-Ocean Point: 
+Ocean Point.
 
 Gulp + Webpack:
 - Html
